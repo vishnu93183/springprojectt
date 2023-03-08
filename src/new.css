@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #a24a4a;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #3e2222;
+  }
+  
+  tr:hover {
+    background-color: #643c3c;
+  }
+  .fuel{
+    text-align: center;
+  }
